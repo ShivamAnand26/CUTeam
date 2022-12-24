@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "332618966695",
+    "project_id": "cuteams-fe610",
+    "storage_bucket": "cuteams-fe610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332618966695:android:0cb180d0695bc93305dd82",
+        "android_client_info": {
+          "package_name": "com.mycompany.cuteams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332618966695-sm8qsckjovt91s1r3lmvbbl15u4qem95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSO7N6EHHfWBua08VsZ3I5IcmTydJMKVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332618966695-sm8qsckjovt91s1r3lmvbbl15u4qem95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332618966695-7j5mr1jfchj9av3pgp7q8hhrj0akst8p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cuteams"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
